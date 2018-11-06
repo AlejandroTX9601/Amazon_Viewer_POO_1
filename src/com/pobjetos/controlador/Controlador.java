@@ -8,6 +8,6 @@ import javax.swing.JOptionPane;
  */
 public class Controlador {
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "Rama3");
+        JOptionPane.showMessageDialog(null, "Bienvenidos a Netbeans Rama4");
     }
 }
